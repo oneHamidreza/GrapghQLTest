@@ -1,0 +1,12 @@
+{
+  "name": "GraphTest",
+  "displayName": "GraphTest",
+  "expo": {
+    "name": "GraphTest",
+    "slug": "GraphTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
